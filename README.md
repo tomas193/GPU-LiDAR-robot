@@ -1,25 +1,13 @@
 # Centipide
 
 ## Overview
-PyStructAlgo offers a curated collection of Python implementations for various algorithms and data structures, compiled from academic coursework in the 'Structure of Algorithms' program. It's a resource for students and programming enthusiasts to explore algorithmic solutions and data structures in Python.
+Centipede is a robot about path planning that was presented at the International Society for Optics and Photonics (SPIE). This project works with a Jetson Nano due to its GPU and a LiDAR sensor that measures the environment; then a path is calculated on each state and take action considering unkown obstacles. The implemented algorithm is a parallelized Iterative Deepening Approach that enhances path planning time compared to a CPU. Also, a scientific paper was written to support this project and presented on the event.
 
 ## Contents
 This repository contains Python scripts covering:
-- Sorting algorithms
-- Search algorithms
-- Data structures like trees, graphs, and linked lists
-- And more
-
-Each script is documented for ease of understanding and practical application.
-
-## Getting Started
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/EdoMg2/PyStructAlgo.git
-2. Navigate to the script of interest and run it using Python.
-## Prerequisites
-Python 3.x
-
+- Scientific Paper
+- Main programs
+- Hardware testing programs
 
 ## Acknowledgements
-Special thanks to the professor Monica and peers who contributed to the learning experience during the 'Structure of Algorithms' course.
+Special thanks to professors: PhD Ulises Orozco and PhD Kenia Picos for being our mentors during this project.
