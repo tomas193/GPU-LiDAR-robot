@@ -8,6 +8,3 @@ This repository contains Python, C++ and CUDA scripts:
 - Scientific Paper
 - Main programs
 - Hardware testing programs
-
-## Acknowledgements
-Special thanks to professors: PhD Ulises Orozco and PhD Kenia Picos for being our mentors during this project.
